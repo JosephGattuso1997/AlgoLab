@@ -1,1 +1,1 @@
-web: gunicorn AlgoLab.wsgi --log-file -
+web: gunicorn algolab.wsgi --log-file -

@@ -23,7 +23,8 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = 'ft4#b3cl%v#@cxh80-**s)u2eelz*gzx&kqv1ub7acpdq%1)3h'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+
+DEBUG = True
 
 ALLOWED_HOSTS = ['algolab.herokuapp.com']
 
